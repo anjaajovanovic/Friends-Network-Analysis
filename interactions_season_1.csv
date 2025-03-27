@@ -1,0 +1,265 @@
+Character1,Character2,InteractionCount
+Joey,Monica,202
+Chandler,Joey,316
+Chandler,Phoebe,215
+Monica,Phoebe,275
+Chandler,Monica,186
+Joey,Phoebe,98
+Chandler,Ross,278
+Joey,Ross,286
+Monica,Ross,221
+Phoebe,Ross,153
+Monica,Rachel,437
+Rachel,Ross,395
+Phoebe,Rachel,208
+Joey,Rachel,88
+Chandler,Paul,3
+Monica,Paul,26
+Joey,Paul,4
+Chandler,Rachel,186
+Frannie,Rachel,1
+Frannie,Monica,8
+Frannie,Joey,1
+Marsha,Ross,8
+Carol,Ross,91
+Joey,Mrs. Geller,2
+Monica,Mrs. Geller,37
+Mrs. Geller,Ross,15
+Mr. Geller,Ross,5
+Mr. Geller,Mrs. Geller,4
+Monica,Mr. Geller,12
+Ross,Susan,85
+Carol,Susan,20
+Carol,Rachel,9
+Barry,Rachel,48
+Barry,Robbie,5
+Rachel,Robbie,3
+Robbie,Ross,1
+Barry,Ross,1
+Robbie,Susan,1
+Dr. Oberman,Ross,2
+Monica,Paula,11
+Joey,Paula,1
+Alan,Monica,7
+Lizzie,Phoebe,22
+Joanne,Rachel,8
+Joanne,Phoebe,1
+Kiki,Rachel,3
+Joanne,Kiki,1
+Chandler,Receptionist,4
+Receptionist,Ross,6
+Joey,Receptionist,2
+Angela,Phoebe,2
+Angela,Joey,14
+Angela,Rachel,1
+Angela,Monica,8
+Chandler,Janice,61
+Phoebe,Woman,1
+Rachel,Woman,13
+Ross,Woman,3
+Angela,Bob,1
+Bob,Monica,1
+Bob,Joey,6
+Janice,Rachel,1
+Aurora,Chandler,54
+Aurora,Joey,1
+Director,Joey,10
+Chandler,Jill,19
+Jill,Rachel,1
+Mr. Heckles,Rachel,8
+Mr. Heckles,Phoebe,9
+Jill,Ross,2
+Jill,Phoebe,1
+Jill,Joey,1
+Chandler,Shelley,21
+Aunt Lillian,Ross,10
+Aunt Lillian,Monica,1
+Mr. Geller,Nurse,1
+Nurse,Ross,7
+Aunt Lillian,Mr. Geller,3
+Chandler,Mr. Geller,1
+Aunt Lillian,Mrs. Geller,2
+Mrs. Geller,Phoebe,1
+Chandler,Mrs. Geller,1
+Andrea,Chandler,2
+Andrea,Ross,2
+Joey,Mr. Geller,4
+Mr. Geller,Rachel,2
+Mrs. Geller,Rachel,1
+Chandler,Lowell,14
+Rachel,Terry,4
+Max,Phoebe,18
+Chandler,David,2
+David,Phoebe,46
+David,Max,7
+Chandler,Max,1
+David,Janice,1
+Monica,Sandy,1
+Joey,Sandy,5
+Ross,Sandy,1
+Rachel,Sandy,1
+Janice,Ross,2
+Fun Bobby,Monica,1
+Fun Bobby,Joey,2
+Fun Bobby,Janice,1
+Dick Clark,Phoebe,1
+Dick Clark,Joey,1
+Dick Clark,Rachel,1
+Chandler,Dick Clark,1
+Jay Leno,Rachel,1
+Chandler,Jay Leno,3
+Paolo,Ross,2
+Paolo,Rachel,2
+Paolo,Phoebe,1
+Jay Leno,Paolo,1
+Jay Leno,Phoebe,1
+Chandler,Mrs. Bing,22
+Jay Leno,Mrs. Bing,2
+Monica,Mrs. Bing,2
+Mrs. Bing,Ross,22
+Mrs. Bing,Phoebe,2
+Mrs. Bing,Rachel,1
+Coma Guy,Phoebe,7
+Coma Guy,Monica,7
+Joey,Mrs. Bing,1
+Carol,Chandler,3
+Phoebe,Roger,23
+Chandler,Roger,9
+Joey,Roger,2
+Monica,Mr. Tribbiani,2
+Mr. Tribbiani,Phoebe,1
+Mr. Tribbiani,Roger,3
+Joey,Mr. Tribbiani,27
+Monica,Roger,6
+Roger,Ross,4
+Rachel,Roger,1
+Joey,Ronni,10
+Chandler,Ronni,7
+Mr. Tribbiani,Ronni,8
+Chandler,Mr. Tribbiani,1
+Monica,Ronni,6
+Rachel,Ronni,7
+Mr. Tribbiani,Rachel,2
+Joey,Mrs. Tribbiani,16
+Chandler,Lorraine,4
+Lorraine,Rachel,1
+Joey,Lorraine,3
+Janice,Joey,3
+Janice,Monica,4
+Kristin,Ross,9
+Carol,Kristin,1
+Fireman No. 1,Ross,1
+Fireman No. 1,Fireman No. 2,2
+Fireman No. 2,Monica,1
+Fireman No. 3,Monica,2
+Fireman No. 1,Fireman No. 3,1
+Fireman No. 1,Rachel,2
+Fireman No. 2,Rachel,1
+Fireman No. 2,Janice,1
+Carol,Fireman No. 3,1
+Fireman No. 3,Rachel,3
+Fireman No. 2,Fireman No. 3,1
+Chandler,Woman,1
+Chandler,Mrs. Tedlock,2
+Celia,Ross,11
+Celia,Chandler,1
+Monica,Steve,28
+Phoebe,Steve,8
+Rachel,Steve,5
+Joey,Steve,1
+Monica,Nurse,8
+Nurse,Rachel,5
+Chandler,Dr. Mitchell,1
+Dr. Mitchell,Monica,13
+Dr. Mitchell,Dr. Rosen,7
+Dr. Rosen,Rachel,11
+Phoebe's Friends,Ross,1
+Phoebe,Phoebe's Friends,1
+Dr. Mitchell,Rachel,3
+Dr. Rosen,Monica,2
+Phoebe,Ursula,26
+Dr. Mitchell,Ross,1
+End,Ross,4
+Guys,Rachel,2
+Chandler,Guys,2
+Aunt Iris,Monica,5
+Aunt Iris,Rachel,2
+Aunt Iris,Phoebe,3
+Monica,Mr. Heckles,5
+Luisa,Monica,9
+Luisa,Ross,4
+Luisa,Phoebe,4
+Luisa,Rachel,10
+Joey,Woman No. 1,4
+Chandler,Woman No. 1,3
+Joey,Woman No. 2,1
+Woman No. 1,Woman No. 2,1
+Mr. Heckles,Ross,11
+Luisa,Mr. Heckles,3
+Barry,Chandler,1
+Bernice,Rachel,1
+Barry,Bernice,3
+Bobby,Rachel,2
+Barry,Bobby,1
+Bobby,Chandler,1
+Mindy,Rachel,38
+Joey,Mindy,1
+Barry,Mindy,5
+Rachel,Teacher,6
+Monica,Teacher,9
+Phoebe,Teacher,1
+Monica,Woman,2
+Teacher,Woman,2
+Fake Monica,Monica,33
+Ross,Teacher,1
+Fake Monica,Rachel,2
+Dr. Baldhara,Ross,12
+Dr. Baldhara,Joey,1
+Dr. Baldhara,Monica,1
+Fake Monica,Teacher,1
+Monica,Young Ethan,49
+Ross,Young Ethan,2
+Joey,Young Ethan,1
+Gerston,Rachel,1
+Gerston,Santos,2
+Petrie,Santos,1
+Chandler,Petrie,1
+Chandler,Santos,1
+Chandler,Gerston,1
+Dr. Franzblau,Ross,7
+Carol,Dr. Franzblau,5
+Dr. Franzblau,Rachel,14
+Joey,Lydia,30
+Lydia,Phoebe,1
+Chandler,Lydia,1
+Lydia,Ross,2
+Carol,Nurse,2
+Lydia,Nurse,1
+Joey,Nurse,3
+Phoebe,Susan,4
+Dr. Franzblau,Joey,1
+Joey,Susan,1
+Chandler,Dr. Franzblau,2
+Lydia,Rachel,1
+Guy,Lydia,6
+Carol,Phoebe,2
+Carol,Monica,1
+Dr. Franzblau,Nurse,3
+Janitor,Ross,1
+Chandler,Nurse,1
+Monica,Susan,1
+Rachel,Susan,1
+End,Phoebe,1
+Chandler,Melanie,2
+Joey,Melanie,10
+Flight Attendant,Rachel,9
+Flight Attendant,Man,3
+Man,Melanie,1
+Melanie,Monica,1
+Intercom,Rachel,2
+Carl,Joey,1
+Carl,Ross,2
+Carl,Rachel,9
+Man,Rachel,1
+Man,Ross,1
+Julie,Ross,8
