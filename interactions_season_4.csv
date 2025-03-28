@@ -1,0 +1,210 @@
+Character1,Character2,InteractionCount
+Joey,Phoebe Sr.,1
+Phoebe,Phoebe Sr.,34
+Joey,Phoebe,161
+Chandler,Joey,526
+Joey,Ross,225
+Rachel,Ross,381
+Bonnie,Ross,4
+Bonnie,Rachel,2
+Monica,Phoebe,264
+Chandler,Monica,182
+Chandler,Phoebe,177
+Monica,Ross,206
+Chandler,Rachel,182
+Joey,Monica,185
+Phoebe,Ross,152
+Monica,Rachel,319
+Phoebe,Rachel,245
+Chandler,Ross,223
+Phoebe,Ursula,13
+Monica,Ursula,1
+Joey,Rachel,126
+Chip,Monica,25
+Rachel,Tony,1
+Joey,Tony,1
+Chandler,Tony,4
+Chandler,Peter,1
+Joey,Peter,1
+Chip,Rachel,6
+Chip,Joey,2
+Guy,Joey,6
+Chandler,Chip,2
+Mr. Treeger,Rachel,10
+Chandler,Mr. Treeger,7
+Joey,Mr. Treeger,51
+Chandler,Gym Employee,6
+Gym Employee,Ross,5
+Gym Employee,Woman,1
+Rick,Woman,1
+Phoebe,Rick,19
+Mr. Treeger,Phoebe,3
+Monica,Mr. Treeger,1
+Bank Officer,Ross,2
+Bank Officer,Chandler,1
+Bank Officer,Ms. Lambert,1
+Chandler,Ms. Lambert,1
+Mrs. Potter,Phoebe,4
+Mr. Simon,Mrs. Potter,2
+Interviewer,Joey,1
+Interviewer,Phoebe,3
+Gunther,Phoebe,5
+Gunther,Rachel,12
+Gunther,Ross,4
+Chandler,Gunther,8
+Chandler,Kathy,104
+Joey,Kathy,4
+Kathy,Phoebe,3
+Kathy,Rachel,4
+Josh,Phoebe,2
+Josh,Monica,2
+Josh,Rachel,6
+Amanda,Phoebe,1
+Amanda,Ross,13
+Kathy,Monica,2
+Gunther,Joey,7
+Casey,Joey,2
+Casey,Chandler,1
+Kathy,Ross,9
+Joey,Voice,3
+Chandler,Voice,1
+Doctor,Joey,1
+Doctor,Monica,1
+Nurse,Rachel,1
+Monica,Nurse,2
+Dr. Timothy Burke,Nurse,1
+Chandler,Dr. Timothy Burke,1
+Joey,Tim,2
+Monica,Tim,49
+Chandler,Tim,1
+Rachel,Tim,1
+Phoebe,Tim,1
+Joanna,Rachel,44
+Chandler,Joanna,1
+Chandler,Mr. Posner,1
+Mr. Posner,Rachel,2
+Mrs. Lynch,Rachel,15
+Joanna,Mr. Posner,1
+Joanna,Monica,1
+Allesandro,Monica,18
+Allesandro,Phoebe,2
+Allesandro,Rachel,1
+Joanna,Sophie,2
+Joanna,Joey,1
+Mrs. Lynch,Sophie,1
+Rachel,Sophie,2
+Allesandro,Sophie,1
+Chandler,Drew,5
+Chandler,Mike,5
+Drew,Mike,3
+A Waiter,Joey,2
+Joey,The Waiter,2
+Monica,The Waiter,16
+Chandler,The Conductor,1
+Monica,The Conductor,2
+Kitchen Worker,Monica,4
+Ross,The Conductor,1
+Ross,Woman On Train,7
+Joey,Woman On Train,1
+Frank,Phoebe,30
+Alice,Frank,20
+Joey,Smart Kid,2
+Joey,Phoebe Sr,1
+Phoebe,Phoebe Sr,28
+Joey,Tour Guide,8
+Ross,Tour Guide,4
+Monica,Older Scientist,1
+Older Scientist,Ross,2
+Another Tour Guide,Joey,1
+Another Tour Guide,Ross,1
+Joey,Older Scientist,1
+Another Scientist,Ross,3
+Another Scientist,Phoebe,1
+Alice,Phoebe,25
+Frank,Monica,5
+Monica,Phoebe Sr,1
+Dr. Zane,Ross,1
+Dr. Zane,Phoebe,10
+Dr. Zane,Frank,1
+Chandler,The Girls,1
+Ross,The Girls,1
+Alice,Monica,2
+Kathy's Co-Star,Ross,3
+Kathy,Kathy's Co-Star,4
+Chandler,Kathy's Co-Star,1
+Mr. Waltham,Rachel,19
+Joshua,Rachel,168
+Chandler,Joshua,2
+Joshua,Mr. Waltham,4
+Joshua,Kathy,1
+Mr. Waltham,Ross,1
+Emily,Rachel,15
+Emily,Monica,17
+Emily,Ross,179
+Joey,The A.D,14
+Charlton Heston,Monica,1
+Charlton Heston,Joey,17
+Chandler,The Cigarette Guy,1
+Rachel,The Cigarette Guy,1
+Janice,Monica,1
+Janice,Phoebe,4
+Janice,Joey,4
+Chandler,Janice,42
+Emily,Joey,9
+Devon,Emily,3
+Devon,Liam,3
+Liam,Ross,3
+Emily,Liam,6
+Devon,Ross,2
+Janice,Ross,2
+Emily,Phoebe,5
+Chandler,Ticket Counter Attendant,8
+Janice,Ticket Counter Attendant,1
+Chandler,Emily,4
+Mrs. Chatracus,Rachel,2
+Ross,Ticket Counter Attendant,1
+Joshua,Phoebe,1
+Joshua,Ross,4
+Joshua,Monica,1
+Joey,Joshua,4
+Gunther,Joshua,3
+Rachel,The Doctor,3
+Phoebe,The Doctor,9
+Frank,Ross,1
+Emily,amazing,2
+Alice,Chandler,2
+Alice,Emily,1
+Carol,Ross,19
+Ross,Susan,5
+Emily,Susan,7
+Carol,Emily,1
+Carol,Susan,2
+Mrs. Burgin,Rachel,5
+Joshua,Mrs. Burgin,3
+Mr. Burgin,Mrs. Burgin,2
+Joshua,Mr. Burgin,5
+Mr. Burgin,Rachel,10
+Joey,Mr. Burgin,1
+Ross,The Singing Man,1
+Rachel,The Singing Man,3
+Joey,The Singing Man,4
+Phoebe,The Saleslady,1
+Monica,The Saleslady,10
+Chandler,The Saleslady,1
+Gunther,Sleep Clinic Worker,1
+Joey,Sleep Clinic Worker,2
+Chandler,Sleep Clinic Worker,3
+Chandler,Marjorie,6
+Chloe,Rachel,1
+Chloe,Ross,5
+Chandler,The Stripper,5
+Ross,The Stripper,5
+Joey,The Stripper,12
+Joey,The Doctor,3
+Ross,The Doctor,1
+Joey,The Vendor,4
+Chandler,The Vendor,4
+Fergie,Joey,4
+Chandler,Fergie,2
+Housekeeper,Phoebe,1
+Chandler,Housekeeper,1
